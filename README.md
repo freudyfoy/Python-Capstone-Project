@@ -1,3 +1,3 @@
 # Python-Capstone-Project
 
-practice python capstone projecy
+practice python capstone project
